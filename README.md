@@ -16,7 +16,7 @@ An **AI-powered communication coaching application** that helps users improve **
 ### Tech Stack
 
 **Frontend:** React.js, Vite, JavaScript, HTML, CSS
-**Backend:** Node.js, Express.js, REST APIs
+**Backend:** Node.js, REST APIs
 **AI:** Google Gemini API, Generative AI, Prompt Engineering
 **Tools:** Git, GitHub, Environment Variables
 
